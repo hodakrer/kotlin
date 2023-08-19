@@ -2,7 +2,7 @@
 //코틀린은 자체적 Deque를 제공해주지 않는다.
 //대신 Java의 api를 적극적으로 활용할 수 있다.
 //그럼에도 코틀린 공식 호페이지에서 ArrayDeque에 대한 설명을 읽을 수 있다.
-//  https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-array-deque/
+//  https://kotlinlang.org/api/5latest/jvm/stdlib/kotlin.collections/-array-deque/
 import java.util.ArrayDeque
 
 fun input() {
